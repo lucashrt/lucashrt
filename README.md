@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas! 👋
+# Olá! 👋
 
 ## Sobre Mim
 Sou um estudante de Engenharia de Software com uma grande paixão por programação. Atualmente, estou me aprofundando em GoLang e buscando oportunidades para desenvolver habilidades práticas e contribuir com soluções inovadoras. Dedico-me a aprender algo novo todos os dias para me tornar um profissional de destaque na área.
