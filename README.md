@@ -9,8 +9,6 @@ Sou um estudante de Engenharia de Software com uma grande paixão por programaç
   - Java
   - JavaScript
   - Python
-  - C
-  - C++
 - **Frameworks e Bibliotecas**:
   - Gin (para desenvolvimento web em Go)
   - GORM (para manipulação de banco de dados)
