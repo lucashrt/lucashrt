@@ -1,5 +1,3 @@
-# Olá! 👋
-
 ## Sobre Mim
 Sou um estudante de Engenharia de Software com uma grande paixão por programação. Atualmente, estou me aprofundando em GoLang e buscando oportunidades para desenvolver habilidades práticas e contribuir com soluções inovadoras. Dedico-me a aprender algo novo todos os dias para me tornar um profissional de destaque na área.
 
@@ -15,13 +13,14 @@ Sou um estudante de Engenharia de Software com uma grande paixão por programaç
   - Spring Boot (para desenvolvimento de aplicações em Java)
 - **Outras Tecnologias**:
   - Git e GitHub
+  - AWS
   - PostgreSQL e bancos de dados relacionais
 
 ## Projetos em Destaque ⭐
 - [bancoJava](https://github.com/lucashrt/bancoJava): Um repositório onde estou desenvolvendo um sistema bancário em Java.
 
 ## O que Estou Aprendendo Agora 🧐
-- Estruturas de dados
+- Cloud Computing
 - Desenvolvimento back-end
 - Banco de dados
 
