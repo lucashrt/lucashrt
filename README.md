@@ -1,30 +1,32 @@
-## Sobre Mim
-Sou um estudante de Engenharia de Software com uma grande paixão por programação. Atualmente, estou me aprofundando em GoLang e buscando oportunidades para desenvolver habilidades práticas e contribuir com soluções inovadoras. Dedico-me a aprender algo novo todos os dias para me tornar um profissional de destaque na área.
+Hi there!
 
-## Tecnologias que tenho conhecimento 💡
-- **Linguagens de Programação**: 
-  - GoLang
-  - Java
-  - JavaScript
-  - Python
-- **Frameworks e Bibliotecas**:
-  - Gin (para desenvolvimento web em Go)
-  - GORM (para manipulação de banco de dados)
-  - Spring Boot (para desenvolvimento de aplicações em Java)
-- **Outras Tecnologias**:
-  - Git e GitHub
-  - AWS
-  - PostgreSQL e bancos de dados relacionais
+[![LinkedIn Badge](https://img.shields.io/badge/-lucashrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashrt/)](https://www.linkedin.com/in/lucashrt/)
 
-## Projetos em Destaque ⭐
-- [bancoJava](https://github.com/lucashrt/bancoJava): Um repositório onde estou desenvolvendo um sistema bancário em Java.
+My name is **Lucas Hartmann**
 
-## O que Estou Aprendendo Agora 🧐
-- Cloud Computing
-- Desenvolvimento back-end
-- Banco de dados
+(Java | Spring Boot | AWS | Go | Python | JavaScript | SQL | NoSQL) 🚀
 
-## Vamos Conectar! 📩
-- [LinkedIn](https://www.linkedin.com/in/lucashrt/)
+---
 
-Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações. 🚀
+👨‍💻 Software Engineering Student  
+🎯 Focused on Back-End Development  
+☁️ Exploring Cloud Computing (AWS)  
+📚 Constant learner – currently delving deeper into JavaScript and design patterns  
+💼 Open to internships, collaborations, and tech communities  
+🎓 Transitioning from the military to the tech industry with discipline and purpose  
+
+---
+
+### 🚀 Featured Project  
+**[APIeventosTec](https://github.com/lucashrt/eventosTecAPI)**  
+A RESTful API built with Java and Spring Boot to manage tech events. Focused on back-end architecture, clean code, and practical application of Spring ecosystem tools.
+
+---
+
+Thanks for visiting my profile! 🚀
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashrt&layout=compact&theme=tokyonight)
