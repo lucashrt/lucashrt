@@ -18,8 +18,8 @@ My name is **Lucas Hartmann**
 ---
 
 ### 🚀 Featured Project  
-**[APIeventosTec](https://github.com/lucashrt/eventosTecAPI)**  
-A RESTful API built with Java and Spring Boot to manage tech events. Focused on back-end architecture, clean code, and practical application of Spring ecosystem tools.
+**[Encurtame](https://github.com/lucashrt/encurtameApi)**  
+A high-performance RESTful API for a modern URL shortener, developed with Node.js and vanilla JavaScript. This project showcases a strong focus on back-end fundamentals, including clean architecture, REST principles, and scalability. The API is engineered to handle link creation, management, and redirection with optimal efficiency.
 
 ---
 
