@@ -24,9 +24,3 @@ A high-performance RESTful API for a modern URL shortener, developed with Node.j
 ---
 
 Thanks for visiting my profile! 🚀
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashrt&layout=compact&theme=tokyonight)
